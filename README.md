@@ -1,0 +1,2 @@
+# koptan.mk
+DEV BY MOAMEN ELKOPTAN
